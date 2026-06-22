@@ -52,6 +52,11 @@ https://app.powerbi.com/view?r=eyJrIjoiNGZhZTY3MzItNDIzNy00NmNlLWJjNjgtOWZiYWUwM
 - Power Query (M)
 - GBIF
 
+## Data citation:
+
+GBIF.org (16 June 2026) GBIF Occurrence Download.
+https://doi.org/XXXXXXXXXXXX
+
 ## Author
 
 Felipe Andrade
