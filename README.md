@@ -55,7 +55,7 @@ https://app.powerbi.com/view?r=eyJrIjoiNGZhZTY3MzItNDIzNy00NmNlLWJjNjgtOWZiYWUwM
 ## Data citation:
 
 GBIF.org (16 June 2026) GBIF Occurrence Download.
-https://doi.org/XXXXXXXXXXXX
+https://doi.org/10.15468/dl.4mqber
 
 ## Author
 
