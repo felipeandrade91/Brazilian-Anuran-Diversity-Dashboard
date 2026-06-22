@@ -22,9 +22,23 @@ Key features include:
 - Geographic scope: Brazil
 - Extraction date: June 16, 2026
 
-## Dashboard preview
+## Dashboard Preview
 
-![Overview](images/overview.png)
+### Visão Geral
+
+![Visão Geral](Visao_geral.jpg)
+
+### Diversidade por Estado
+
+![Diversidade por Estado](estados.jpg)
+
+### Sazonalidade
+
+![Sazonalidade](Meses.jpg)
+
+### Distribuição das Espécies
+
+![Distribuição das Espécies](Distribuição.jpg)
 
 ## Interactive dashboard
 
